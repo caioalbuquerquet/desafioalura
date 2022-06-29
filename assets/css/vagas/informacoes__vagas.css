@@ -1,0 +1,7 @@
+.informacoes__vagas {
+    margin-top: 1rem;
+    display: flex;
+    gap: 2rem;
+    color: var(--text-color);
+    font-size: 90%;
+}

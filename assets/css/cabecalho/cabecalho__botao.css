@@ -1,0 +1,15 @@
+.cabecalho__botao {
+    background: none;
+    border: none;
+    border-radius: 0.5rem;
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.8rem 1rem;
+}
+
+#cadastro {
+    background-color: #8E2424;
+    color: #FFF;
+}

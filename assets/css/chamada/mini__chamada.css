@@ -1,0 +1,9 @@
+.mini__chamada {
+    font-size: 0.86rem;
+    color: #8E2424;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 4px 12px;
+}

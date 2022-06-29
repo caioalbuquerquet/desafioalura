@@ -1,0 +1,7 @@
+.principal {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 3.2rem;
+    
+}

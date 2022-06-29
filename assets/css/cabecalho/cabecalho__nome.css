@@ -1,0 +1,9 @@
+.cabecalho__nome {
+    color: #3A404E;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    line-height: 24px;
+    margin-left: 0.5rem;
+}

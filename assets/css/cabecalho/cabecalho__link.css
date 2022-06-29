@@ -1,0 +1,6 @@
+.cabecalho__link {
+    color: var(--text-color);
+    text-decoration: none;
+    margin-right: 2rem;
+    font-family: 'Inter', sans-serif;
+}

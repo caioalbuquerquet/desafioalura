@@ -1,0 +1,11 @@
+.area__vagas {
+    display: block;
+    font-weight: 500;
+    margin: 2rem auto;
+    max-width: 50%;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.2rem;
+    font-style: normal;
+    line-height: 30px;
+    
+}
